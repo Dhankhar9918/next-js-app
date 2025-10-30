@@ -24,7 +24,7 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      # Step 4: Build the application
+      # Step 4: Build the applicatio
       - name: Build Application
         run: npm run build
 
